@@ -12,9 +12,9 @@ Read the `script.js` file for instructions.
 
 ## Deliverable
 
-When I click on the `Get Random Giphy!` button I should see a random gif.
+When I click on the `Get Random Giphy!` button I should see a random gif and the title underneath.
 
-  ![](https://i.imgur.com/YP7wU3M.png)
+  ![](https://i.imgur.com/aEz23N7.png)
 
 Make sure that you turn on GitHub Pages for your repo so we can test it out!
 
