@@ -1,6 +1,6 @@
 ## Axios AJAX Giphy
 
-For homework, you'll practice what we learned today ad return a random gif from the [Giphy API](https://developers.giphy.com/explorer).
+Today, you'll practice what we learned today ad return a random gif from the [Giphy API](https://developers.giphy.com/explorer).
 
 Giphy requires an API key (it's free). However, I've given you the random endpoint with a working API key in the `script.js` file.
 
